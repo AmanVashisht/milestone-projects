@@ -7,3 +7,6 @@ At mobile screen the website will shown as:
 # project 2
 Doctor Appointment Website
 ![screencapture-127-0-0-1-5500-index-html-2023-08-01-12_36_24](https://github.com/AmanVashisht/milestone-projects/assets/138193090/ed8055cb-87b0-4650-a627-c65853e0e755)
+# project 3
+Bike Landing Page
+![screencapture-127-0-0-1-5500-dist-index-html-2023-08-01-12_44_21](https://github.com/AmanVashisht/milestone-projects/assets/138193090/b856aa8f-430f-453a-830e-88b7073de766)
