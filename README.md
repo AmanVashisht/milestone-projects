@@ -10,3 +10,6 @@ Doctor Appointment Website
 # project 3
 Bike Landing Page
 ![screencapture-127-0-0-1-5500-dist-index-html-2023-08-01-12_44_21](https://github.com/AmanVashisht/milestone-projects/assets/138193090/b856aa8f-430f-453a-830e-88b7073de766)
+# project 4
+NFT website
+![screencapture-127-0-0-1-5500-dist-index-html-2023-08-01-12_47_05](https://github.com/AmanVashisht/milestone-projects/assets/138193090/a7621a61-0a09-4061-8b47-b6fd3309098a)
