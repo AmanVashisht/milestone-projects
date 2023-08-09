@@ -13,3 +13,6 @@ Bike Landing Page
 # project 4
 NFT website
 ![screencapture-127-0-0-1-5500-dist-index-html-2023-08-01-12_47_05](https://github.com/AmanVashisht/milestone-projects/assets/138193090/a7621a61-0a09-4061-8b47-b6fd3309098a)
+# project 5
+pixelab webpage
+![screencapture-127-0-0-1-5500-dist-index-html-2023-08-01-12_48_48](https://github.com/AmanVashisht/milestone-projects/assets/138193090/04f62bfb-c879-44b9-9390-2ee1ecb32103)
